@@ -1,0 +1,165 @@
+{
+  "bgmIntro": {
+    "assetKeys": "bgm-intro"
+  },
+  
+  "bombExplode": {
+    "assetKeys": [
+      "bomb-explode0",
+      "bomb-explode1"
+    ]
+  },
+  
+  "bonusPoints7": {
+    "assetKeys": "bonus-points7"
+  },
+  
+  "bonusPoints8": {
+    "assetKeys": "bonus-points8"
+  },
+  
+  "bonusPoints9": {
+    "assetKeys": "bonus-points9"
+  },
+  
+  "bonusPoints0": {
+    "assetKeys": "bonus-points0"
+  },
+  
+  "bonusPoints1": {
+    "assetKeys": "bonus-points1"
+  },
+  
+  "bonusPoints2": {
+    "assetKeys": "bonus-points2"
+  },
+  
+  "bonusPoints3": {
+    "assetKeys": "bonus-points3"
+  },
+  
+  "bonusPoints4": {
+    "assetKeys": "bonus-points4"
+  },
+  
+  "bonusPoints5": {
+    "assetKeys": "bonus-points5"
+  },
+  
+  "bonusPoints6": {
+    "assetKeys": "bonus-points6"
+  },
+  
+  "brickBreak": {
+    "assetKeys": [
+      "brick-break-a",
+      "brick-break-ab",
+      "brick-break-b",
+      "brick-break-bb",
+      "brick-break-c",
+      "brick-break-d",
+      "brick-break-db",
+      "brick-break-e",
+      "brick-break-eb",
+      "brick-break-f",
+      "brick-break-g",
+      "brick-break-gb"
+    ]
+  },
+  
+  "bricksDescend": {
+    "assetKeys": [
+      "bricks-descend-cm7",
+      "bricks-descend-fm7",
+      "bricks-descend-gm7",
+      "bricks-descend-gm7-jz"
+    ]
+  },
+  
+  "bricksShattered": {
+    "assetKeys": [
+      "bricks-shattered0",
+      "bricks-shattered1"
+    ]
+  },
+  
+  "gameOver": {
+    "assetKeys": [
+      "game-over0",
+      "game-over1",
+      "game-over2",
+      "game-over3",
+      "game-over4",
+      "game-over5",
+      "game-over6"
+    ]
+  },
+  
+  "itemCollectSpeedUp": {
+    "assetKeys": "item-collect-speed-up"
+  },
+  
+  "itemCollectSpeedDown": {
+    "assetKeys": "item-collect-speed-down"
+  },
+  
+  "itemCollectBombPut": {
+    "assetKeys": "item-collect-bomb-put"
+  },
+  
+  "itemCollectColorBlast": {
+    "assetKeys": "item-collect-color-blast"
+  },
+  
+  "itemCollectExtraBall": {
+    "assetKeys": "item-collect-extra-ball"
+  },
+  
+  "itemCollectNewBall": {
+    "assetKeys": "item-collect-new-ball"
+  },
+  
+  "itemCollectBlitzBall": {
+    "assetKeys": "item-collect-blitz-ball"
+  },
+  
+  "itemCollectColorMatch": {
+    "assetKeys": "item-collect-color-match"
+  },
+  
+  "itemCollectPaddleBuff": {
+    "assetKeys": "item-collect-paddle-buff"
+  },
+  
+  "itemCollectPaddleNerf": {
+    "assetKeys": "item-collect-paddle-nerf"
+  },
+  
+  "itemCollectSaver": {
+    "assetKeys": "item-collect-saver"
+  },
+  
+  "lostBall": {
+    "assetKeys": "lost-a-ball"
+  },
+  
+  "lostLife": {
+    "assetKeys": "lost-a-life"
+  },
+  
+  "metalBlock": {
+    "assetKeys": "metal-block"
+  },
+  
+  "metalBlockBigBall": {
+    "assetKeys": "metal-block-big-ball"
+  },
+  
+  "paddleHit": {
+    "assetKeys": "paddle-hit"
+  },
+  
+  "saverBrickBreak": {
+    "assetKeys": "saver-brick-break"
+  }
+}

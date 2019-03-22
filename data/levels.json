@@ -1,0 +1,22 @@
+[
+  {
+    "tileMapKey": "brickout",
+    "ballSpeed": 500,
+    "numBricksToClearToDescend": 20,
+    "bricksDescensionRate": 1
+  },
+  
+  {
+    "tileMapKey": "brickout",
+    "ballSpeed": 575,
+    "numBricksToClearToDescend": 20,
+    "bricksDescensionRate": 1
+  },
+  
+  {
+    "tileMapKey": "brickout",
+    "ballSpeed": 650,
+    "numBricksToClearToDescend": 20,
+    "bricksDescensionRate": 2
+  }
+]

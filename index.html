@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+		<title>Brickout - GameplayCoder</title>
+    <script type="text/javascript" src="js/phaser/phaser.js"></script>
+    <script type="text/javascript" src="js/underscore/underscore.js"></script>
+		<style>
+		  html, body {
+		    padding: 0px;
+		    margin: 0px;
+        border: 0px;
+        width: 100%;
+        height: 100%;
+		    background: black;
+		  }
+		  </style>
+	</head>
+
+	<body>  
+		<!-- source files  -->
+		<script src="js/entities/BallEntity.js"></script>
+		<script src="js/entities/BombEntity.js"></script>
+		<script src="js/entities/BrickEntity.js"></script>
+		<script src="js/entities/ItemEntity.js"></script>
+		<script src="js/entities/PlayerEntity.js"></script>
+		<script src="js/entities/SaverBrickEntity.js"></script>
+		
+    <script src="js/maps/GameMap.js"></script>
+    
+    <script src="js/states/playSubs/PS_Background.js"></script>
+    <script src="js/states/playSubs/PS_BlitzBallEffect.js"></script>
+    <script src="js/states/playSubs/PS_BombEffect.js"></script>
+    <script src="js/states/playSubs/PS_BonusPointsEffect.js"></script>
+    <script src="js/states/playSubs/PS_BricksDescend.js"></script>
+    <script src="js/states/playSubs/PS_ColorBlastEffect.js"></script>
+    <script src="js/states/playSubs/PS_ColorMatchEffect.js"></script>
+    <script src="js/states/playSubs/PS_EffectLabel.js"></script>
+    <script src="js/states/playSubs/PS_ExtraBallEffect.js"></script>
+    <script src="js/states/playSubs/PS_ItemsProgression.js"></script>
+    <script src="js/states/playSubs/PS_LevelBuilder.js"></script>
+    <script src="js/states/playSubs/PS_NewBallEffect.js"></script>
+    <script src="js/states/playSubs/PS_PaddleBuffEffect.js"></script>
+    <script src="js/states/playSubs/PS_Ready.js"></script>
+    <script src="js/states/playSubs/PS_SaverEffect.js"></script>
+    <script src="js/states/playSubs/PS_SequentialBricksClearer.js"></script>
+    <script src="js/states/playSubs/PS_SpeedEffect.js"></script>
+    <script src="js/states/playSubs/PS_Ui.js"></script>
+    <script src="js/states/BootState.js"></script>
+		<script src="js/states/IntroState.js"></script>
+		<script src="js/system/LevelsData.js"></script>
+		<script src="js/states/OutroState.js"></script>
+		<script src="js/states/PlayState.js"></script>
+		<script src="js/states/PreloadState.js"></script>
+		
+    <script src="js/system/BackgroundIds.js"></script>
+    <script src="js/system/BrickIds.js"></script>
+    <script src="js/system/EffectData.js"></script>
+    <script src="js/system/ItemData.js"></script>
+    <script src="js/system/ItemsData.js"></script>
+    <script src="js/system/LevelData.js"></script>
+    <script src="js/system/LevelsData.js"></script>
+    <script src="js/system/PlayerData.js"></script>
+		<script src="js/system/PointsData.js"></script>
+		<script src="js/system/SoundData.js"></script>
+		<script src="js/system/SoundsData.js"></script>
+		<script src="js/system/SoundSystem.js"></script>
+		<script src="js/system/Utils.js"></script>
+		
+    <!-- main -->
+    <script src="js/main.js"></script>
+	</body>
+</html>

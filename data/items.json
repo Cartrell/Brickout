@@ -1,0 +1,199 @@
+{
+  "speedUp": {
+    "brickKey": "block-green",
+    "imageFrames": [
+      "item-green-gem0",
+      "item-green-gem1",
+      "item-green-gem2",
+      "item-green-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectSpeedUp",
+    "props": {
+      "value": 1.5,
+      "duration": 10
+    },
+    "itemLabelSpriteKeys": [
+      "item-label-speed-up0",
+      "item-label-speed-up1"
+    ]
+  },
+  
+  "speedDown": {
+    "brickKey": "block-yellow",
+    "imageFrames": [
+      "item-yellow-gem0",
+      "item-yellow-gem1",
+      "item-yellow-gem2",
+      "item-yellow-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectSpeedDown",
+    "props": {
+      "value": 0.5,
+      "duration": 20
+    },
+    "itemLabelSpriteKeys": [
+      "item-label-speed-down0",
+      "item-label-speed-down1"
+    ]
+  },
+  
+  "bomb": {
+    "brickKey": "block-red",
+    "imageFrames": [
+      "item-red-gem0",
+      "item-red-gem1",
+      "item-red-gem2",
+      "item-red-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectBombPut",
+    "props": {
+      "blastHalfSquareRange": 3
+    }
+  },
+  
+  "colorBlast": {
+    "brickKey": "block-purple",
+    "imageFrames": [
+      "item-purple-gem0",
+      "item-purple-gem1",
+      "item-purple-gem2",
+      "item-purple-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectColorBlast",
+    "itemLabelSpriteKeys": [
+      "item-label-color-blast0",
+      "item-label-color-blast1"
+    ]
+  },
+  
+  "saver": {
+    "brickKey": "block-blue",
+    "imageFrames": [
+      "item-blue-gem0",
+      "item-blue-gem1",
+      "item-blue-gem2",
+      "item-blue-gem1"
+    ],
+    "props": {
+      "minTimePerSaverBlockSec": 10,
+      "maxTimePerSaverBlockSec": 60
+    }
+  },
+  
+  "extraBall": {
+    "brickKey": "block-purple",
+    "imageFrames": [
+      "item-purple-gem0",
+      "item-purple-gem1",
+      "item-purple-gem2",
+      "item-purple-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectExtraBall"
+  },
+  
+  "newBall": {
+    "brickKey": "block-orange",
+    "imageFrames": [
+      "item-orange-gem0",
+      "item-orange-gem1",
+      "item-orange-gem2",
+      "item-orange-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectNewBall",
+    "itemLabelSpriteKeys": [
+      "item-label-extra-life0",
+      "item-label-extra-life1"
+    ]
+  },
+  
+  "bonusPoints": {
+    "brickKey": "block-cyan",
+    "imageFrames": [
+      "item-cyan-gem0",
+      "item-cyan-gem1",
+      "item-cyan-gem2",
+      "item-cyan-gem1"
+    ],
+    "props": {
+      "value": 500,
+      "rankSoundKeys": [
+        "bonusPoints0",
+        "bonusPoints1",
+        "bonusPoints2",
+        "bonusPoints3",
+        "bonusPoints4",
+        "bonusPoints5",
+        "bonusPoints6",
+        "bonusPoints7",
+        "bonusPoints8",
+        "bonusPoints9"
+      ],
+      "itemLabelSpriteKeys": [
+        "item-label-points0",
+        "item-label-points1",
+        "item-label-points2",
+        "item-label-points3",
+        "item-label-points4",
+        "item-label-points5",
+        "item-label-points6",
+        "item-label-points7",
+        "item-label-points8"
+      ]
+    }
+  },
+  
+  "blitzBall": {
+    "brickKey": "block-red",
+    "imageFrames": [
+      "item-red-gem0",
+      "item-red-gem1",
+      "item-red-gem2",
+      "item-red-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectBlitzBall",
+    "props": {
+      "duration": 5
+    }
+  },
+  
+  "colorMatch": {
+    "brickKey": "block-light-blue",
+    "imageFrames": [
+      "item-light-blue-gem0",
+      "item-light-blue-gem1",
+      "item-light-blue-gem2",
+      "item-light-blue-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectColorMatch"
+  },
+  
+  "paddleBuff": {
+    "brickKey": "block-blue",
+    "imageFrames": [
+      "item-blue-gem0",
+      "item-blue-gem1",
+      "item-blue-gem2",
+      "item-blue-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectPaddleBuff",
+    "props": {
+      "minHits": 10,
+      "maxHits": 20
+    }
+  },
+  
+  "paddleNerf": {
+    "brickKey": "block-magenta",
+    "imageFrames": [
+      "item-magenta-gem0",
+      "item-magenta-gem1",
+      "item-magenta-gem2",
+      "item-magenta-gem1"
+    ],
+    "itemCollectSoundKey": "itemCollectPaddleNerf",
+    "props": {
+      "minHits": 10,
+      "maxHits": 20
+    }
+  }
+}
