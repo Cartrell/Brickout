@@ -5,5 +5,7 @@
 
 ## Dev Environment
 [Phaser](https://phaser.io/download/stable)
+
 [Tiled Map Editor](http://www.mapeditor.org/)
+
 [Underscore.js](https://underscorejs.org/)
