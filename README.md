@@ -7,6 +7,7 @@
 [Phaser](https://phaser.io/download/stable)
 [Tiled Map Editor](http://www.mapeditor.org/)
 [Underscore.js](https://underscorejs.org/)
+[TexturePacker](https://www.codeandweb.com/texturepacker)
 
 ## Assets
 ["Arkanoid Arco Pico-8 Assets"](https://opengameart.org/content/arkanoid-pico-8-assets) from [Matriax](https://opengameart.org/users/matriax) on [OpenGameArt](https://opengameart.org/).
