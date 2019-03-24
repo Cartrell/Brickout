@@ -6,7 +6,7 @@
         <key>texturePackerVersion</key>
         <string>4.3.1</string>
         <key>fileName</key>
-        <string>C:/Apache24/htdocs/myGames/breakout/media/graphics/atlas.tps</string>
+        <string>C:/zx/tech/projects/html5/Brickout/media/graphics/atlas.tps</string>
         <key>autoSDSettings</key>
         <array>
             <struct type="AutoSDSettings">
@@ -514,19 +514,12 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">ui/intro-title.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>158,28,315,55</rect>
-                <key>scale9Paddings</key>
-                <rect>158,28,315,55</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
+            <key type="filename">ui/back-button-blue.png</key>
+            <key type="filename">ui/back-button-green-down.png</key>
+            <key type="filename">ui/back-button-green.png</key>
+            <key type="filename">ui/credits-button-blue.png</key>
+            <key type="filename">ui/credits-button-green-down.png</key>
+            <key type="filename">ui/credits-button-green.png</key>
             <key type="filename">ui/start-button-blue.png</key>
             <key type="filename">ui/start-button-green-down.png</key>
             <key type="filename">ui/start-button-green.png</key>
@@ -539,6 +532,32 @@
                 <rect>43,14,85,28</rect>
                 <key>scale9Paddings</key>
                 <rect>43,14,85,28</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">ui/credits-panel.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>204,62,408,124</rect>
+                <key>scale9Paddings</key>
+                <rect>204,62,408,124</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
+            <key type="filename">ui/intro-title.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>158,28,315,55</rect>
+                <key>scale9Paddings</key>
+                <rect>158,28,315,55</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
@@ -662,6 +681,13 @@
             <filename>ui/start-button-blue.png</filename>
             <filename>ui/start-button-green.png</filename>
             <filename>ui/start-button-green-down.png</filename>
+            <filename>ui/credits-button-green.png</filename>
+            <filename>ui/credits-button-green-down.png</filename>
+            <filename>ui/credits-button-blue.png</filename>
+            <filename>ui/credits-panel.png</filename>
+            <filename>ui/back-button-blue.png</filename>
+            <filename>ui/back-button-green.png</filename>
+            <filename>ui/back-button-green-down.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
